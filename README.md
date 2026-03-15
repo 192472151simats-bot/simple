@@ -29,6 +29,9 @@ You can [fork this repo](https://help.github.com/articles/fork-a-repo/) to creat
 
 ``` bash
 vue init username/repo my-project
+<<<<<<< HEAD
 
 This change was made in the feature branch.
 This change was made in the feature branch.
+=======
+This README contains updates from both master and feature branches
