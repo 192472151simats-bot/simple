@@ -31,3 +31,4 @@ You can [fork this repo](https://help.github.com/articles/fork-a-repo/) to creat
 vue init username/repo my-project
 
 This change was made in the feature branch.
+This change was made in the feature branch.
